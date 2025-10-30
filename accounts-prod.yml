@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Tainane Aishwarva - Product Owner"
-    email: "Tainane@gmail.com"
+    email: "{cipher}c377e2bafc8b6b3bb522a94ab3d46ffce43e9c18ed1670a7d24b8da0dd79a8ea91594ba50253bc2e91460456ca2e3f64"
   onCallSupport:
     - (31)3322-3434
     - (31)3222-4343
